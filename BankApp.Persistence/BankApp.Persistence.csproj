@@ -21,8 +21,4 @@
     <ProjectReference Include="..\BankApp.Application\BankApp.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Concrete%28Service%29\" />
-  </ItemGroup>
-
 </Project>
